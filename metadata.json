@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap",
+  "description": "A premium student-to-student peer learning platform to share skills, schedule sessions, earn achievements, and consult an AI Skill Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
