@@ -275,7 +275,7 @@ export default function App() {
                   </div>
                   <div className="flex items-center gap-1.5">
                     <CheckCircle2 className="w-4 h-4 text-indigo-500" />
-                    <span>Gemini AI Tutor Support</span>
+                    <span>AI Tutor Support</span>
                   </div>
                   <div className="flex items-center gap-1.5">
                     <CheckCircle2 className="w-4 h-4 text-indigo-500" />
